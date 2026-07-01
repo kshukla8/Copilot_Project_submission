@@ -1,0 +1,33 @@
+This project includes the following folders:
+
+Task 1
+This folder contains following two files, which were output for email summary task and report creation from excel file task
+
+File names
+Subject Immediate Attention Required Critical Supply Chain Issues Impacting FDA Compliance.msg
+Supply Chain Issues Review.docx
+
+
+Task 2
+This folder contains two files for meeting invite task and and meeting summary task from meeting transcript.
+
+File names
+Meeting Summary & Action Plan - Supply Chain Issues Review.docx
+Meeting-Supply Chain Issue Review.msg
+
+Task 3 
+This folder contains two files as an output for analysis report of given excel file and risk assessment from the data analysis.
+
+File names
+Expanded_SupplyChainMetrics.xlsx
+Supply Chain Issue Analysis Report.docx
+
+Task 4 
+This folder contains the final presentation for excutive report of supplies issue and mitigation steps.
+
+File names
+Supply Chain Issue Compliance Report.pptx
+
+Apart from this folder there a also a file names 'Prompt Library.docx' which lists all prompts used to generate above mentioned files using CoPilot. 
+
+
